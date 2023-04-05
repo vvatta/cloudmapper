@@ -24,6 +24,6 @@
     "@aws-cdk/aws-s3": "^1.132.0",
     "@aws-cdk/core": "^1.132.0",
     "js-yaml": "^3.14.0",
-    "source-map-support": "^0.5.19"
+    "source-map-support": "^0.5.21"
   }
 }
